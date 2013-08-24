@@ -2,7 +2,7 @@ body {
   font-family: "Crimson Text", serif;
 }
 
-div .content {
+div.content {
   width: 500px;
   margin: auto;
 }
