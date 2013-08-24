@@ -2,9 +2,11 @@ body {
   font-family: "Crimson Text", serif;
 }
 
-div.content {
-  max-width: 500px;
-  margin: auto;
+@media only screen and (max-device-width: 480px) {
+  div.content {
+    max-width: 500px;
+    margin: auto;
+  }
 }
 
 p, li {
