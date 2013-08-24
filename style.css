@@ -1,6 +1,13 @@
 body {
-  font-family: Crimson Text;
+  font-family: "Crimson Text", serif;
 }
+
 p, ul {
-  font-family: Lato;
+  font-family: Lato, serif;
+  list-style: none;
+}
+
+a {
+  font-weight: bold;
+  color: darkgreen;
 }
