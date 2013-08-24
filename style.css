@@ -7,7 +7,7 @@ div.content {
   margin: auto;
 }
 
-p, ul {
+p, li {
   font-family: Lato, serif;
   list-style: none;
   padding-left: 0;
