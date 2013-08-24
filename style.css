@@ -12,7 +12,8 @@ p, ul {
   list-style: none;
   padding-left: 0;
   margin-left: 40px;
-  line-height: 1.5em;
+  line-height: 1.3em;
+  margin-bottom: 0.2em;
 }
 
 a {
