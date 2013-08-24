@@ -1,3 +1,6 @@
 body {
   font-family: Crimson Text;
 }
+p, ul {
+  font-family: Lato;
+}
