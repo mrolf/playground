@@ -2,7 +2,7 @@ body {
   font-family: "Crimson Text", serif;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media screen and (min-device-width : 800px) {
   div.content {
     max-width: 500px;
     margin: auto;
